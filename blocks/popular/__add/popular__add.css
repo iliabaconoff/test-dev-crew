@@ -1,0 +1,11 @@
+.popular__add {
+    margin-top: 100px;
+    color: #FF6E30;
+    padding: 17px 38px;
+    border: solid 1px rgb(255, 255, 255, 10%);
+    box-sizing: border-box;
+    width: 184px;
+    height: 64px;
+    background-color: transparent;
+    border-radius: 10px;    
+}

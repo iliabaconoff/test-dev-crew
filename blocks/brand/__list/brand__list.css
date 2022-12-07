@@ -1,0 +1,9 @@
+.brand__list {
+    margin: 0;
+    margin-bottom: 56px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 107px;
+    padding: 0 82px;
+}

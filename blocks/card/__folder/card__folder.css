@@ -1,0 +1,9 @@
+.card__folder {
+    background-image: url("../../../images/fodler.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28px;
+    height: 28px;
+    background-color: transparent;
+    border: none;
+}

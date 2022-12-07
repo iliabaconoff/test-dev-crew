@@ -1,0 +1,6 @@
+.slider__item {
+    width: 849px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}

@@ -1,0 +1,6 @@
+.newcomer {
+    display: flex;
+    flex-direction: row;
+    margin: 200px auto 0;
+    justify-content: space-between;
+}

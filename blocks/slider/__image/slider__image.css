@@ -1,0 +1,9 @@
+.slider__image {
+    box-sizing: border-box;
+    background-image: url("../../../images/ronaldRichards.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 492px;
+    width: 392px;
+    position: relative;
+}

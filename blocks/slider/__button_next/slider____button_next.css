@@ -1,0 +1,7 @@
+.slider__button_next {
+    background-image: url("../../../images/rightArrowActive.svg");
+    background-repeat: no-repeat;
+    width: 48px;
+    height: 48px;
+    background-position: center;
+}

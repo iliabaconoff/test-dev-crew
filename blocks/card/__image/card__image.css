@@ -1,0 +1,5 @@
+.card__image {
+    grid-column: 1 span;
+    width: 64px;
+    padding: 0 11px;
+}

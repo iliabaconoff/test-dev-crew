@@ -1,0 +1,6 @@
+.slider__wrapper {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 100px;
+}

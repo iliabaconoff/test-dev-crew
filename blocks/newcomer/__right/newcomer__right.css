@@ -1,0 +1,6 @@
+.newcomer__right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 600px;
+}

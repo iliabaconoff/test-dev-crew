@@ -1,0 +1,8 @@
+.search__bar {
+    padding: 21px 0 22px;
+    border: none;
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    color: rgba(255,255,255,.7);
+}

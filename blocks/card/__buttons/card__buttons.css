@@ -1,0 +1,8 @@
+.card__buttons {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    gap: 124px;
+    padding: 30px 33px 33px 33px;
+}

@@ -1,0 +1,9 @@
+.search__field {
+    width: 497px;
+    margin: 0;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    background-color: #283036;
+    border-radius: 10px;
+}

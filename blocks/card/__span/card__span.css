@@ -1,0 +1,9 @@
+.card__span {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    grid-column: 2;
+    grid-row: 2;
+    color: rgba(255, 165, 55, .55);
+    text-align: left;
+}

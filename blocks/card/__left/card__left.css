@@ -1,0 +1,5 @@
+.card__left {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}

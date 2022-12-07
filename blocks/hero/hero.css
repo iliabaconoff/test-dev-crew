@@ -1,0 +1,9 @@
+.hero {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-image: url("../../images/heroIllustration.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}

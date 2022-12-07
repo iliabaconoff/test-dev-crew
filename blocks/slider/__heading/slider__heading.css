@@ -1,0 +1,9 @@
+.slider__heading {
+    padding: 10px 22px;
+    background-color: rgba(0,0,0,.2);
+    border-radius: 20px;
+    width: 265px;
+    position: absolute;
+    bottom: 29px;
+    right: 4px;
+}
