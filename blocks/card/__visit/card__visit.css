@@ -5,6 +5,7 @@
     color: rgba(255,255,255,75%);
     align-self: center;
     padding: 9px 35px;
+    transition: all .2s ease-in;
 }
 
 /* .card__visit-active {

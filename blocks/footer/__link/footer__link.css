@@ -2,4 +2,9 @@
     text-decoration: none;
     color: rgba(255,255,255,.7);
     margin-bottom: 10px;
+    transition: all .3s ease-in;
+}
+
+.footer__link:hover{
+    opacity: .7;
 }
