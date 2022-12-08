@@ -8,3 +8,7 @@
     grid-row: 1;
 
 }
+
+.slider__button_prev:hover {
+    background-image: url("../../../images/leftArrowActive.svg");
+}

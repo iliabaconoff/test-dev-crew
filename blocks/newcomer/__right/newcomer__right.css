@@ -3,4 +3,5 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 600px;
+    gap: 15px 15px;
 }

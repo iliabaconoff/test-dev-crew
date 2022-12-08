@@ -1,10 +1,14 @@
 .slider__button_next {
     box-sizing: border-box;
-    background-image: url("../../../images/rightArrowActive.svg");
+    background-image: url("../../../images/rightArrow.svg");
     background-repeat: no-repeat;
     width: 80px;
     height: 100px;
     background-position: center;
     grid-column: 3;
     grid-row: 1;
+}
+
+.slider__button_next:hover {
+    background-image: url("../../../images/rightArrowActive.svg");
 }
