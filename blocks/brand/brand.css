@@ -6,4 +6,9 @@
     border-radius: 25px;
     background: radial-gradient(ellipse at bottom right, rgba(40, 48, 54, 1), transparent),
     radial-gradient(ellipse at top left, rgba(255, 110, 48, 0.1), transparent);
+    transition: all 1s ease-in-out;
+}
+
+.brand a:hover {
+    transform: scale(1.3);
 }

@@ -6,4 +6,9 @@
     background-image: url("../../images/heroIllustration.svg");
     background-repeat: no-repeat;
     background-position: right bottom;
+    transition: all 1s ease-in-out;
+}
+
+.hero a:hover {
+    opacity: .6;
 }
