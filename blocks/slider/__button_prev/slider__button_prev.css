@@ -1,8 +1,8 @@
 .slider__button_prev {
     background-image: url("../../../images/leftArrow.svg");
     background-repeat: no-repeat;
-    width: 48px;
-    height: 48px;
+    width: 80px;
+    height: 100px;
     background-position: center;
     grid-column: 1;
     grid-row: 1;
