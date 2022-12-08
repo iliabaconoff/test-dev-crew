@@ -1,3 +1,6 @@
 .slider {
-    
+    width: 1224px;
+    display: grid;
+    grid-template: repeat(2, auto) / repeat(3, content);
+    align-items: center;
 }

@@ -1,6 +1,10 @@
 .slider__item {
-    width: 849px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 849px;
+    height: 492px;
     display: flex;
     flex-direction: row;
     margin: auto;
+
 }

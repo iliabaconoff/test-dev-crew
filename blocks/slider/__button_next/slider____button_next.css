@@ -1,7 +1,10 @@
 .slider__button_next {
+    box-sizing: border-box;
     background-image: url("../../../images/rightArrowActive.svg");
     background-repeat: no-repeat;
-    width: 48px;
-    height: 48px;
+    width: 80px;
+    height: 100px;
     background-position: center;
+    grid-column: 3;
+    grid-row: 1;
 }

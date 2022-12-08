@@ -1,6 +1,10 @@
 .slider__wrapper {
-    display: flex;
-    flex-flow: row;
+    display: grid;
     align-items: center;
-    gap: 100px;
+    width: 849px;
+    margin: auto;
+    align-items: center;
+    overflow: hidden;
+    grid-row: 1;
+    grid-column: 2;
 }

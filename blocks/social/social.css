@@ -1,5 +1,6 @@
 .social {
     padding-top: 110px;
     display: flex;
+    align-items: center;
     gap: 22px;
 }

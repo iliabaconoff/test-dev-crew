@@ -1,0 +1,10 @@
+.slider__button_position {
+    width: 44px;
+    height: 8px;
+    background-color: #283036;
+    border-radius: 20px;
+}
+
+.slider__button_position-active {
+    background-color: #FF6E30;
+}

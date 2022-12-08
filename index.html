@@ -11,7 +11,7 @@
   <body class="page">
     <section class="section hero">
       <header class="header">
-        <img src="./images/logo.svg" class="logo" alt="logo">
+        <div class="logo"></div>
 
         <nav class="nav">
           <ul class="nav__list">
@@ -58,9 +58,12 @@
         </div>
       </div>
       <div class="social">
-        <img src="./images/facebook.svg" alt="fb_icon" class="social__icon" />
-        <img src="./images/ig.svg" alt="ig_icon" class="social__icon" />
-        <img src="./images/twi.svg" alt="twi_icon" class="social__icon" />
+        <a href="https://facebook.com">
+        <img src="./images/facebook.svg" alt="fb_icon" class="social__icon" /></a>
+        <a href="https://instagram.com">
+        <img src="./images/ig.svg" alt="ig_icon" class="social__icon" /></a>
+        <a href="https://twitter.com">
+        <img src="./images/twi.svg" alt="twi_icon" class="social__icon" /></a>
       </div>
     </section>
 
@@ -362,7 +365,6 @@
         data-autoplay="false"
       >
         <div class="slider__wrapper">
-          <button class="slider__btn slider__button_prev button"></button>
           <div class="slider__items">
             <div class="slider__item">
               <div class="slider__image">
@@ -419,8 +421,14 @@
               </div>
             </div>
           </div>
-          <button class="slider__btn slider__button_next button"></button>
         </div>
+        <button class="slider__btn slider__button_prev button"></button>
+        <button class="slider__btn slider__button_next button"></button>
+      </div>
+      <div class="slider__position">
+        <button class="slider__button_position button"></button>
+        <button class="slider__button_position slider__button_position-active button"></button>
+        <button class="slider__button_position button"></button>
       </div>
     </section>
 
@@ -462,8 +470,12 @@
       <div class="footer__coulmn">
         <h3 class="footer__title">Categories</h3>
         <ul class="footer__list">
-          <a href="" class="footer__link"><li class="footer__item">Design</li></a>
-          <a href="" class="footer__link"><li class="footer__item">Development</li></a>
+          <a href="" class="footer__link">
+            <li class="footer__item">Design</li>
+          </a>
+          <a href="" class="footer__link">
+            <li class="footer__item">Development</li>
+          </a>
         </ul>
       </div>
 
@@ -480,5 +492,6 @@
         </ul>
       </div>
     </footer>
+    <script src="./script.js"></script>
   </body>
 </html>

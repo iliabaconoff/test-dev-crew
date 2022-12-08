@@ -1,9 +1,13 @@
 .slider__description {
     background-image: url("../../../images/commas.svg");
     background-repeat: no-repeat;
-    background-position: -5px -10px;
     margin: 0;
-    padding: 110px 0 46px 119px;
+    padding: 40px 0 46px 40px;
+    
+    width: 512px;
+
+}
+.slider__description p {
     width: 393px;
     font-size: 14px;
     font-weight: 400;

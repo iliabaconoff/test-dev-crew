@@ -5,5 +5,7 @@
     background-size: contain;
     height: 492px;
     width: 392px;
+    /* width: 100%; */
     position: relative;
+    z-index: 1;
 }
